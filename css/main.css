@@ -1,0 +1,233 @@
+* {
+  max-width: 1600px !important;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.body {
+  box-sizing: border-box !important;
+  font-family: "Poppins", sans-serif !important;
+}
+
+.nav {
+  gap: -10px;
+}
+
+.header-nav-button {
+  padding: 17px 57px;
+}
+
+.header-description {
+  margin-top: 100px;
+}
+
+.description-title {
+  width: 386px;
+  text-align: start;
+  font-style: normal;
+  font-size: 60px;
+  line-height: 80px;
+}
+
+.description-button {
+  padding: 32px 118px;
+}
+
+.card-1 {
+  background: #f5f5f5;
+  border-radius: 10px;
+  max-width: 453px;
+  height: 794px;
+}
+
+.card-2 {
+  background: #f5f5f5;
+  border-radius: 10px;
+  max-width: 432px;
+  height: 531px;
+}
+
+.card-21 {
+  background: #f5f5f5;
+  border-radius: 10px;
+  max-width: 432px;
+  height: 531px;
+}
+
+.card-3 {
+  background: #f5f5f5;
+  border-radius: 10px;
+  max-width: 805px;
+  height: 243px;
+  margin-left: 490px;
+  margin-top: -245px;
+}
+
+.card-button {
+  padding: 15px 51px;
+}
+
+.pricing-card-1 {
+  width: 390px;
+}
+
+.pricing-card-2 {
+  width: 390px;
+}
+
+.pricing-card-3 {
+  width: 390px;
+}
+
+@media only screen and (max-width: 1279px) {
+  .header-image {
+    width: 80%;
+    height: 80%;
+  }
+  .nav-link {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .header-nav-button {
+    font-size: 15px;
+    line-height: 25px;
+    padding: 12px 40px;
+  }
+  .description-title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .description-image {
+    width: 80px;
+    height: 80px;
+  }
+  .desciption-subtitle {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .description-button {
+    font-size: 15px;
+    line-height: 25px;
+    padding: 15px 65px;
+  }
+  .wrapper-image {
+    width: 50%;
+    height: 50%;
+  }
+
+  .main-title {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .main-card {
+    max-width: 600px;
+  }
+  .card-1 {
+    width: 225px;
+    height: 660px;
+  }
+  .card-2 {
+    width: 225px;
+    height: 430px;
+  }
+  .card-21 {
+    width: 225px;
+    height: 430px;
+  }
+  .card-3 {
+    width: 450px;
+    height: 210px;
+  }
+  .card-image-1 {
+    width: 214px;
+    height: 214px;
+  }
+  .card-image-2 {
+    width: 200px;
+    height: 200px;
+  }
+  .card-image-21 {
+    width: 215px;
+    height: 145px;
+  }
+  .card-image-3 {
+    width: 215px;
+    height: 140px;
+  }
+  .card-title {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .card-subtitle {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .card-button {
+    font-size: 15px;
+    line-height: 25px;
+    padding: 10px 25px;
+  }
+  .text-title {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .card-number {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .card-span {
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .main-image {
+    width: 290px;
+    height: 290px;
+  }
+  .pricing-title {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .pricing-image-1 {
+    width: 197px;
+    height: 197px;
+  }
+  .pricing-image-2 {
+    width: 219px;
+    height: 168px;
+  }
+  .pricing-image-3 {
+    width: 210px;
+    height: 210px;
+  }
+  .pricing-type {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .pricing-description {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .pricing-value {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 15px;
+  }
+  .value-span {
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .contact-us {
+    width: 40%;
+    height: 40%;
+  }
+  .form-title {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .form-subtitle {
+    font-size: 15px;
+    line-height: 20px;
+  }
+}
